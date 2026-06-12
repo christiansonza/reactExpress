@@ -34,16 +34,8 @@ Create a `.env` file inside the backend folder:
 - PORT= located in .env.example
 
 
-## Seeding
-
-To create the default admin account, run the seed script:
-
-- cd backend
-- node seed/seed.js
-
-
 ## Default Admin Account
-After seeding, Use the following credentials to log in:
+Use the following credentials to log in:
 
 - Username: admin
 - Password: admin123
